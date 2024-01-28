@@ -9,7 +9,7 @@ function App() {
   const buttonList = buttonProps.map((color) => {
     return (
       <ColorButton
-        onClick={(e) => setColor(props.value)}
+        onClick={(e) => setColor(color.value)}
         name={color.name}
         value={color.value}
       />
