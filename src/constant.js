@@ -8,7 +8,7 @@ export const buttonProps = [
     value: "#FFC0CB",
   },
   {
-    name: " Teal",
+    name: " Aqua",
     value: "#66CDAA",
   },
   {
